@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<body bgcolor="#ff9933">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+
+<font size="6"><center><h1>Bennetts Instagram</h1></center></font>
+<font size="6"><center><p>Wanna See My Instagram?</p></center></font>
+<center><div>
+    <h1><a href="https://www.instagram.com/buhnutt/">The Gram</a></h1>
+</div>
+</body>
+</html>
